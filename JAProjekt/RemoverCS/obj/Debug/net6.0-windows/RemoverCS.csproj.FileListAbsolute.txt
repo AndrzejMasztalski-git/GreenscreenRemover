@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\JAProjekt\RemoverCS\bin\Debug\net6.0-windows\RemoverCS.deps.json
+C:\Users\Admin\Desktop\JAProjekt\RemoverCS\bin\Debug\net6.0-windows\RemoverCS.dll
+C:\Users\Admin\Desktop\JAProjekt\RemoverCS\bin\Debug\net6.0-windows\RemoverCS.pdb
+C:\Users\Admin\Desktop\JAProjekt\RemoverCS\obj\Debug\net6.0-windows\RemoverCS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\JAProjekt\RemoverCS\obj\Debug\net6.0-windows\RemoverCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\JAProjekt\RemoverCS\obj\Debug\net6.0-windows\RemoverCS.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\JAProjekt\RemoverCS\obj\Debug\net6.0-windows\RemoverCS.AssemblyInfo.cs
+C:\Users\Admin\Desktop\JAProjekt\RemoverCS\obj\Debug\net6.0-windows\RemoverCS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\JAProjekt\RemoverCS\obj\Debug\net6.0-windows\RemoverCS.dll
+C:\Users\Admin\Desktop\JAProjekt\RemoverCS\obj\Debug\net6.0-windows\refint\RemoverCS.dll
+C:\Users\Admin\Desktop\JAProjekt\RemoverCS\obj\Debug\net6.0-windows\RemoverCS.pdb
+C:\Users\Admin\Desktop\JAProjekt\RemoverCS\obj\Debug\net6.0-windows\ref\RemoverCS.dll

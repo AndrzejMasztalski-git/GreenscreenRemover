@@ -1,0 +1,2 @@
+LIBRARY RemoverASM
+EXPORTS MyProc1
